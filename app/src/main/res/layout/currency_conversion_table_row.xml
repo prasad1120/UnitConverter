@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout style="@style/curr_row"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        style="@style/curr_cell_1" />
+
+    <ImageView
+        style="@style/curr_img"
+        android:src="@drawable/us" />
+
+    <TextView
+        style="@style/curr_cell_2"
+        android:text="(USD) United States" />
+</LinearLayout>

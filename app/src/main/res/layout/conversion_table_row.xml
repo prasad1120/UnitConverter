@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/row"
+    android:id="@+id/tableRow">
+
+    <TextView style="@style/cell_1" />
+
+    <TextView
+        style="@style/cell_2"
+        android:background="@drawable/table_border" />
+</TableRow>
